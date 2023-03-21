@@ -15,4 +15,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Check the demo
 
-[https://stalwart-pastelito-7795ec.netlify.app/](https://stalwart-pastelito-7795ec.netlify.app/)
+[https://glittering-gaufre-eebc6c.netlify.app/](https://glittering-gaufre-eebc6c.netlify.app/)

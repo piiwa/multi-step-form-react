@@ -11,7 +11,7 @@ const Template: FC<Props> = ({ children }) => {
   return (
     <Layout className="layout bg-white">
       <Header className="container mx-auto max-w-screen-md bg-white flex justify-between px-4">
-        <div className="uppercase font-bold text-3xl self-center">Assurmax</div>
+        <div className="uppercase font-bold text-3xl self-center">Logo</div>
         <Menu
           mode="horizontal"
           // items={[
